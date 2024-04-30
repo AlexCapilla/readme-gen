@@ -29,11 +29,14 @@ function genMarkDown(data){
     ${data.test}
 
     ## Questions
+    Please contact
 
-    ${data.email}
+    Email:   ${data.email}
 
-    ${data.github}
+    Github:  ${data.github}
 
 
     `
 }
+
+module.exports = genMarkDown;

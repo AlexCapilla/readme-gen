@@ -2,7 +2,7 @@
 const path = require("path");
 const fs = require("fs");
 const inquirer = require("inquirer");
-const genMarkDown = require("genMarkDown");
+const genMarkDown = require("./genMarkDown");
 
 // TODO: Create an array of questions for user input
 const questions = [
