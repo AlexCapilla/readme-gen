@@ -12,7 +12,7 @@
     ## Installation
     To install, run the following commands:
     ```
-    npm run install
+    npm install inquirer
     ```
 
     ## Usage
@@ -34,5 +34,7 @@
 
     Github:  AlexCapilla
 
+    ## Video Link
+    https://drive.google.com/file/d/1agXctfIwSVCGF59Ge_USjm4J_UaVCwr9/view
 
     
